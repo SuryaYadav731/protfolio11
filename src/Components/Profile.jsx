@@ -44,7 +44,7 @@ const Profile = () => {
           className="rounded-full w-40 h-40 mx-auto mb-4 shadow-lg transform transition-transform duration-500 hover:scale-105 animate-zoom-in" 
         />
         <p className="text-lg md:text-xl text-gray-200 w-[90%] md:w-[70%] mx-auto animate-fade-in">
-        I completed six months of intensive Web Developer training at Ducat India from January to July 2024. I joined Anudip Foundation in August to further enhance my expertise through the AJP course.  I'm passionate about creating dynamic, user-friendly web applications and excited to continue growing as a web developer.
+        Creative and detail-oriented Frontend Developer with strong expertise in HTML, CSS, JavaScript, and React. Experienced in building responsive and user-friendly web applications, ensuring optimal performance and accessibility. Proficient in using tools like Bootstrap and Redux Toolkit to enhance user experience. Passionate about staying updated with the latest web technologies and best practices to deliver high-quality solutions.
         </p>
       </div>
       <a href={MERN} download target='_blank' className="bg-blue-600 text-white text-xl font-medium py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transition-all duration-300 transform hover:scale-105">
