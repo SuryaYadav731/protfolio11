@@ -1,36 +1,23 @@
 
 import React from "react";
 import Learn from "../assests/Learnit.png";
-import billing from "../assests/billing.jpeg";
+import billing from "../assests/billing.png";
 import image from "../assests/image.png";
 
 function Projects() {
   const projects = [
+   
     {
-      title: "CodeBook",
-      image: Learn,
-      description: "Developed a comprehensive Code Store platform using the React.",
-      features: [
-        "Features for storing, updating, deleting, and viewing data. ",
-        "Using React and the Redux Toolkit, along with HTML, CSS, JavaScript, Git and Github",
-        "Using React for the UI and Redux Toolkit for managing the state makes the application easy to scale and maintain.",
-        ,
-      ],
-      liveLink: "https://code-book-theta.vercel.app/",
-      sourceLink: "https://github.com/SuryaYadav731/CodeBook",
-    },
-    {
-      title: "Hotel Management System",
+      title: "Add contact",
       image: billing,
-      description: "The Java program connects to the MySQL database using JDBC, and reservation details are saved using an INSERT SQL query.",
+      description: "The contact form allows users to submit their names and email addresses, facilitating direct communication and inquiries",
       features: [
-        "Reserve a Room",
-        " Get Room Number",
-        "Update Reservations.",
-        "Delete Reservations",
+        "This contact form feature enriches your landing page by allowing users to easily reach out, providing you with valuable information for follow-up. ",
+        " Ability to store submitted data",
+        " This feature is crucial for capturing leads, providing customer support, or gathering feedback.",
       ],
-      liveLink: "https://github.com/SuryaYadav731/Java25/tree/main/HotelReservation",
-      sourceLink: "https://github.com/SuryaYadav731/Java25/tree/main/HotelReservation",
+      liveLink: "https://add-contact-gamma.vercel.app/",
+      sourceLink: "https://github.com/SuryaYadav731/Add-contact",
     },
     {
       title: "Dice Game",
@@ -45,6 +32,19 @@ function Projects() {
       ],
       liveLink: "https://dice-game-nine-jade.vercel.app/",
       sourceLink: "https://github.com/SuryaYadav731/Dice-Game",
+    },
+    {
+      title: "UI Page",
+      image: Learn,
+      description: "Developed a comprehensive Code  platform using the React js.",
+      features: [
+        "Using React Js, along with HTML, CSS, JavaScript, Git and Github",
+        "Ensure the design enhancing user experience but not responsive using toggle ",
+        "Using React for the UI and Reduc js for managing the state makes the application easy to scale and maintain.",
+        ,
+      ],
+      liveLink: "https://facebookui.vercel.app/",
+      sourceLink: "https://github.com/SuryaYadav731/facebookui",
     },
   ];
 
