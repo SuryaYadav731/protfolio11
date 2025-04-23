@@ -16,16 +16,16 @@ const Footer = () => {
           </p>
           <p className="py-1 flex items-center">
             <FontAwesomeIcon icon={faPhone} className="mr-2" />
-            <a href="tel:9878402898" className="hover:text-gray-300">7272807401</a>
+            <a href="tel:7272807401" className="hover:text-gray-300">7272807401</a>
           </p>
         </div>
         <div className="mb-4 md:mb-0">
           <p className="text-lg font-semibold">Location</p>
           <p className="py-1 flex items-center">
             <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2" />
-            Rajiv Nagar, Sector 13
+            Marathalli
           </p>
-          <p className="py-1">Current:-Gurugram, Haryana, 122001, India <br/>
+          <p className="py-1">Current:-Bengalore, Karnataka, 560037, India <br/>
           Permanent:- Varanasi Uttar Pradesh 221104</p>
         </div>
         <div className="flex space-x-6">

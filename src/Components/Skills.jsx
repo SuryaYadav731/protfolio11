@@ -22,8 +22,8 @@ import React from 'react';
 
 const Skills = () => {
   const skills = [
-    'React', 'Core Java','My SQL', 'JDBC', 'MongoDB', 'Hibernate', 
-    'JavaScript (ES6)', 'Bootstrap', 'HTML', 'CSS'
+    'Excel', 'Power BI','My SQL', 'Python', 'Numpy', 'Pandas', 'Machine Learning',
+    'JavaScript (ES6)', 'Bootstrap', 'HTML', 'CSS',
   ];
 
   return (

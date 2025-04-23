@@ -4,10 +4,10 @@ import './Header.css';
 import MERN from '../assests/Resume.pdf';
 import photoSurya from "../assests/photosurya.jpg";
 const roles = [
-  'Web Developer',
-  'React Developer',
-  'Frontend Developer',
-  'Java Developer'
+  'Data Analyst',
+  'Data Science',
+  'Data Engineer'
+  
 ];
 
 const Profile = () => {
@@ -44,7 +44,7 @@ const Profile = () => {
           className="rounded-full w-40 h-40 mx-auto mb-4 shadow-lg transform transition-transform duration-500 hover:scale-105 animate-zoom-in" 
         />
         <p className="text-lg md:text-xl text-gray-200 w-[90%] md:w-[70%] mx-auto animate-fade-in">
-        Creative and detail-oriented Frontend Developer with strong expertise in HTML, CSS, JavaScript, and React. Experienced in building responsive and user-friendly web applications, ensuring optimal performance and accessibility. Proficient in using tools like Bootstrap and Redux Toolkit to enhance user experience. Passionate about staying updated with the latest web technologies and best practices to deliver high-quality solutions.
+        Skilled in Python, SQL, Power BI, and Excel with experience in data cleaning, analysis, and visualization. Proven ability to extract insights, forecast trends, and support decision-making through dashboards and reports.
         </p>
       </div>
       <a href={MERN} download target='_blank' className="bg-blue-600 text-white text-xl font-medium py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transition-all duration-300 transform hover:scale-105">
