@@ -4,33 +4,33 @@ import React from 'react';
 
 const workExperience = [
   {
-    title: 'Web Developer',
-    company: 'Ducat India',
+    title: 'TRC ENGINEER',
+    company: 'Aforeserve Pvt limited',
     role: 'Role & Responsibilities:',
     responsibilities: [
-      'Gain expertise in HTML, CSS, JavaScript, and frameworks like React.js,',
-      ' Work on creating UI components, improving design, and implementing user-friendly layouts.',
-      'The focus is on learning, gaining practical exposure, and contributing to projects while under guidance',
+      'Physically inspected and tested computer motherboards to ensure functionality and identify faults or defects.',
+      'Verified key motherboard components including CPU, RAM slots, capacitors, and connectors for proper alignment and operation.',
+      'Maintained accurate records of tested units, tracking serial numbers and test results for quality assurance.',
     ],
-    startDate: '01/2024',
-    endDate: '07/2024',
-    location: 'Gurugram, India',
-    technologies: ['React.js', 'Bootstrap', 'HTML', 'CSS', 'JavaScript', 'Git', 'Github'],
+    startDate: '12/2024',
+    endDate: '03/2024',
+    location: 'Bengalore, India',
+    technologies: ['ESD Protection Equipment'],
   },
   {
-    title: 'Java Developer',
-    company: 'Anudip Foundation',
+    title: 'Data Entry Operator',
+    company: 'Oriental IT Services',
     role: 'Role & Responsibilities',
     responsibilities: [
-      ' Core Java concepts such as OOP (Object-Oriented Programming), exception handling, multithreading, and collections',
-      'Java technologies such as JDBC, Hibernate (JPA), Spring Framework, and how they apply to real-world projects',
-      ' Understand relational databases (MySQL) and how to connect Java applications using JDBC for data persistence',
+      ' Entered, updated, and maintained accurate data in Excel spreadsheets and internal databases.',
+      'Verified and corrected data to ensure high levels of accuracy and consistency.',
+      ' Used Microsoft Excel functions such as VLOOKUP, pivot tables, and conditional formatting to manage and clean data.',
       
     ],
-    startDate: '09/2024',
-    endDate: 'Present',
-    location: '',
-    technologies: ['Core Java', 'My Sql', 'JDBC', 'Hiberate'],
+    startDate: '04/2024',
+    endDate: '10/2024',
+    location: 'Varanasi Uttar Pradesh',
+    technologies: ['Microsoft Excel'],
   },
 ];
 

@@ -22,7 +22,7 @@ import React from 'react';
 
 const Skills = () => {
   const skills = [
-    'Excel', 'Power BI','My SQL', 'Python', 'Numpy', 'Pandas', 'Machine Learning',
+    'Excel', 'Power BI','My SQL', 'Python', 'Numpy', 'Pandas', 
     'JavaScript (ES6)', 'Bootstrap', 'HTML', 'CSS',
   ];
 
